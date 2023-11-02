@@ -1,0 +1,17 @@
+{
+  "name": "wa-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dio",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
